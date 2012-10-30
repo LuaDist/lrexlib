@@ -1,6 +1,6 @@
 --- This file is part of LuaDist project
 
-name = "lrexlib-posix"
+name = "lrexlib"
 version = "2.7.1"
 
 desc = "a Lua 5.1 and 5.2 binding of TRE regex library API"
